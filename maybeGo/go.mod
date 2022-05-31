@@ -1,4 +1,4 @@
-module main
+module github.com/lennard-pfennig-bruker/lambda
 
 go 1.18
 
